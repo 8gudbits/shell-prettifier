@@ -11,7 +11,7 @@ _**Shell Prettifier is a simple script that beautifies your terminal with oh-my-
 _Clone the repository:_
 
 ```bash
-git clone --depth 1 https://github.com/TechWhizKid/shell-prettifier.git
+git clone --depth 1 https://github.com/8gudbits/shell-prettifier.git
 ```
 
 _Move to 'shell-prettifier/':_
